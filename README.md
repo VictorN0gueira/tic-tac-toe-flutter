@@ -23,7 +23,7 @@ Antes de começar, certifique-se de ter instalado:
 
 1️⃣ Clone o repositório:  
    ```sh
-   git clone https://github.com/seu-usuario/tic-tac-toe-flutter.git
+   git clone https://github.com/victorn0gueira/tic-tac-toe-flutter.git
    ```
 
 2️⃣ Acesse o diretório do projeto:  
