@@ -29,6 +29,7 @@ Antes de começar, certifique-se de ter instalado:
 2️⃣ Acesse o diretório do projeto:  
    ```sh
    cd tic-tac-toe-flutter
+   cd tic-tac-toe-flutter-main
    ```
 
 3️⃣ Instale as dependências:  
